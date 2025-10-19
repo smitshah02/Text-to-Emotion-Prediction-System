@@ -36,7 +36,11 @@ Classifies **multiple emotions per sentence** using a DistilBERT encoder and a l
 ## 🗂️ Repository Structure
 
 ├─ nn.py # Training / inference script (this project’s core)
+
 ├─ requirements.txt # Python dependencies
+
 ├─ train.csv # (user-provided) training data, CSV
+
 ├─ dev.csv # (user-provided) validation data, CSV
+
 └─ test-in.csv # (user-provided) test data for inference
